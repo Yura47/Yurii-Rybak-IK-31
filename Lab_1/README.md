@@ -24,3 +24,5 @@ git checkout 2nd-branch
 ```sh
 git pull
 ```
+### 10. Inserting picture in README.md file :
+![alt text](https://github.com/Yura47/Yurii-Rybak-IK-31/blob/master/Lab_1/Picture.jpg "Adding a Picture")
