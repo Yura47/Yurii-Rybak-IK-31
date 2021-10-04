@@ -8,3 +8,4 @@ git clone https://github.com/Yura47/Yurii-Rybak-IK-31.git
 ```sh
 git log
 ``` 
+### 5. Changes in README.md file in the branch master are not visible because previous commit was performed in branch_one.
