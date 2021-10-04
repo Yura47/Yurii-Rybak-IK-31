@@ -20,3 +20,7 @@ git checkout 2nd-branch
 ### 7. The issue was because of merging 2 branches and in these two branches the same line was edited.
 
 ### 9. Edited the file using Web Version 
+### 9.1 There are no changes after editing using Web Version. To sync Web and Pc we are using the command:
+```sh
+git pull
+```
