@@ -18,3 +18,5 @@ git checkout 2nd-branch
 ### 5. Changes in README.md file in the branch master are not visible because previous commit was performed in 2nd-branch.
 
 ### 7. The issue was because of merging 2 branches and in these two branches the same line was edited.
+
+### 9. Edited the file using Web Version 
