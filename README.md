@@ -15,4 +15,4 @@ git branch 2nd-branch
 ```sh
 git checkout 2nd-branch
 ``` 
-### 5. Changes in README.md file in the branch master are not visible because previous commit was performed in branch_one.
+### 5. Changes in README.md file in the branch master are not visible because previous commit was performed in 2nd-branch.
